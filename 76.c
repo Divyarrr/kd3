@@ -21,4 +21,4 @@ void main()
     }
     getch();
 }
-© 2019 GitHub, Inc.
+
