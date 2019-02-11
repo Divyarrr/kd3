@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
     int a,pw,p=1,i;
